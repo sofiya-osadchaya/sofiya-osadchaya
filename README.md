@@ -9,6 +9,8 @@ evaluation plans, delivery milestones and release decisions for AI-assisted anal
 AI delivery, evals, token unit economics, stakeholder alignment and delivery governance.
 Stack: Python, Pydantic, SQL/Pandas, Instructor, OpenAI-compatible APIs, HTML/JS and structured prompts.
 
+Live demo: [Synthetic analytics dashboard](https://nagibator-da-ya.github.io/analytics-dashboard-demo/)
+
 ## Portfolio
 - [AI analytics platform demo](https://github.com/nagibator-da-ya/ai-analytics-platform-demo) - contracts, routing, guardrails and failure handling.
 - [LLM eval harness](https://github.com/nagibator-da-ya/llm-eval-harness) - five-criterion judge and independent field accuracy.
